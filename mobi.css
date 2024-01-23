@@ -1,0 +1,74 @@
+@media only screen and (max-width: 600px) {
+  .gayatri img {
+    padding: 20px;
+    width: 100%;
+  }
+  .gayatri h2 {
+    font-size: 25px;
+  }
+  #banner h1 {
+    font-size: 50px;
+  }
+  #banner h4 {
+    font-size: 19px;
+    padding-bottom: 30px;
+  }
+
+  .therapy h1 {
+    text-align: left;
+    font-size: 52px;
+    padding-bottom: 30px;
+  }
+  #janu-vasti h5,
+  #kansa-thali h5 {
+    padding-top: 30px;
+    text-align: center;
+  }
+  #janu-vasti p,
+  #kansa-thali p {
+    padding: 30px;
+  }
+
+  #cup-therapy h5,
+  #kati-vasti h5 {
+    padding-top: 30px;
+    text-align: center;
+  }
+  #cup-therapy p,
+  #kati-vasti p {
+    padding: 30px;
+  }
+  .reason h1 {
+    font-size: 40px;
+  }
+  #section2 h5 {
+    padding: 0%;
+    text-align: left;
+  }
+  #section2 img {
+    margin-top: 30px;
+    width: 120%;
+  }
+  .body img {
+    width: 100%;
+  }
+  .contact h4 {
+    text-align: left;
+    font-size: 50px;
+  }
+  .contact p {
+    text-align: left;
+    font-size: 15px;
+  }
+  .contact i {
+    font-size: 30px;
+    padding: 20px;
+  }
+  .contact img {
+    padding-top: 30px;
+    width: 100%;
+  }
+  .footer img {
+    width: 100%;
+  }
+}
