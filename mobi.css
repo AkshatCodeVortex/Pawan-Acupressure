@@ -71,4 +71,33 @@
   .footer img {
     width: 100%;
   }
+
+  #banner-donation h1 {
+    padding-top: 80px;
+    padding-bottom: 30px;
+    font-size: 60px;
+  }
+  #banner-donation h4 {
+    font-size: 20px;
+    padding-bottom: 30px;
+  }
+  .donation p {
+    font-size: 18px;
+  }
+  .footer1 img {
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+  }
+  .payment {
+    margin: 0%;
+    padding-top: 50px;
+  }
+  #p1 h2 {
+    padding-bottom: 30px;
+  }
+  #p1 img {
+    margin: 0px;
+    width: 100%;
+  }
 }
